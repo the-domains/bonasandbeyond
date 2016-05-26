@@ -1,0 +1,28 @@
+name: BonasandBeyond
+favicon: null
+layout_spectrum: 0.9558491078205407
+typography_spectrum: 0.9459791367407888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.07731703063473105
+  lightness: 0.2728713999968022
+  saturation: 0.6450000375043601
+  rhythmicContrast: 0.22697530058212578
+purpose: []
